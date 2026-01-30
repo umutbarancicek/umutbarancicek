@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Umut Baran Çiçek
 
-A passionate Software Engineer and AI Specialist dedicated to building scalable systems and immersive XR experiences. I focus on clean code and robust software architecture while bridging the gap between Fullstack development and AI Agents.
+Software Engineer & AI Enthusiast specializing in AI Agents, Fullstack Development (TypeScript), and Unity/XR. I am passionate about crafting scalable systems through clean code and robust software architecture.
 
 ### 🛠 Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
