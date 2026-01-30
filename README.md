@@ -1,38 +1,18 @@
-# Hi there 👋 I'm Umut Baran Çiçek
+# Hi there 👋, I'm Umut Baran Çiçek
 
-### 🚀 Software Engineer | AI Agents & Fullstack Developer | Unity Game Developer
-
-I am a dedicated Software Engineer focused on building intelligent systems and scalable web applications. With a strong foundation in **Clean Code** and **Design Patterns**, I bridge the gap between complex backend logic, interactive game environments, and cutting-edge AI integrations.
-
-- 🤖 Specializing in **AI Agents** and LLM orchestration.
-- 🌐 Building robust **Fullstack** solutions primarily with **TypeScript**.
-- 🎮 Crafting immersive experiences in **Unity** using **C#**.
-- 🛠️ Passionate about software architecture and maintainable codebases.
-
----
+I am a **Software Engineer** specializing in **AI Agents & Fullstack Development (TypeScript)** and a **Unity Game Developer (C#)**. I am passionate about writing **Clean Code** and implementing **Design Patterns** to create high-quality software solutions.
 
 ### 🛠️ Tech Stack
 
-**Languages**
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**Frameworks & Tools**
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-### 📊 GitHub Statistics
+### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umutbarancicek&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umutbarancicek&layout=compact&theme=transparent)
 
----
+### 🤝 Connect with me
 
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([linkedin.com/in/umut-baran-cicek](https://www.linkedin.com/in/umut-baran-cicek/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@umutbarancicek.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://umutbarancicek.com)
-
-"Clean code always looks like it was written by someone who cares." — *Michael Feathers*
+- 📧 Email: [Send Mail](mailto:your-email@example.com)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/)
