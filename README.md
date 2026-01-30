@@ -1,9 +1,9 @@
 # Hi there 👋 I'm Umut Baran Çiçek
 
-Software Engineer and AI Specialist dedicated to building scalable systems and immersive XR experiences. I specialize in TypeScript fullstack development, AI Agents, and Unity, with a strong focus on clean code and robust software architecture.
+A passionate Software Engineer and AI Specialist dedicated to building scalable systems and immersive XR experiences. I focus on clean code and robust software architecture while bridging the gap between Fullstack development and AI Agents.
 
 ### 🛠 Tech Stack
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 📊 GitHub Analytics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umutbarancicek&show_icons=true&theme=dark&locale=tr&hide_border=true) 
