@@ -14,5 +14,5 @@ I am a **Software Engineer** specializing in **AI Agents & Fullstack Development
 
 ### 🤝 Connect with me
 
-- 📧 Email: [Send Mail](mailto:your-email@example.com)
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/)
+- 📧 Email: [Send Mail](mailto:cicekumutbaran@gmail.com)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/umut-baran-cicek/)
